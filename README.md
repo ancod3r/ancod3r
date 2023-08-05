@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm RAJNEESH</h2>
+<h2 align="center">Hi 👋, I'm RAJNISH</h2>
 <h4 align="center">A passionate Software Engineer who loves to learn about new technologies and working on them.</h4>
 
 ---
